@@ -11,4 +11,4 @@ client.on('ready', () => {
     client.user.setPresence({ activities: [{ name: 'Fast Bomber', type: 0 }], status: 'idle' });
 });
 
-client.login('TOKEN').catch(() => console.log('Tokeni Kontrol Ediniz'.red));
+client.login('MTE2NTYxMzkxMDcxNjU4ODEyMw.GLCV2j.T5u3PRXfdQ5krZ9rPPA5Kp2SL8gh-jdKsV1Ht0').catch(() => console.log('Tokeni Kontrol Ediniz'.red));
